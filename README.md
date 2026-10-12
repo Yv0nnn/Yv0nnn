@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yvon</h1>
 <h3 align="center">A CSE Student and developer from India</h3>
 
-- 🌱 I’m currently learning **CSE**
+- 🌱 I’m currently pursuing **CSE**
 
 - 📫 How to reach me **https://www.instagram.com/irl_dk/**
 
